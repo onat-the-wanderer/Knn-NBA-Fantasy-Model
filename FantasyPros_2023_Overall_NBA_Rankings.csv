@@ -1,0 +1,333 @@
+Rank;Player;Positions
+1;Luka Doncic;PG
+2;Nikola Jokic;C
+3;Joel Embiid;C
+4;Giannis Antetokounmpo;PF,C
+5;Shai Gilgeous-Alexander;PG,SG
+6;Jayson Tatum;SF,PF
+7;Tyrese Haliburton;PG,SG
+8;LaMelo Ball;PG,SG
+9;Domantas Sabonis;PF,C
+10;Trae Young;PG
+11;Anthony Davis;PF,C
+12;Anthony Edwards;SG,SF
+13;Damian Lillard;PG
+14;Stephen Curry;PG,SG
+15;Donovan Mitchell;PG,SG
+16;Devin Booker;SF,SG
+17;Pascal Siakam;PF,C
+18;LeBron James;PF,SF
+19;Kevin Durant;SF,PF
+20;De'Aaron Fox;PG
+21;Julius Randle;PF
+22;Dejounte Murray;PG,SG
+23;Bam Adebayo;C
+24;Kyrie Irving;PG,SG
+25;Jaylen Brown;SG,SF
+26;James Harden;PG,SG
+27;Paul George;SF,PF,SG
+28;Mikal Bridges;SG,SF
+29;Nikola Vucevic;C
+30;Jalen Brunson;PG
+31;DeMar DeRozan;SF,SG
+32;Jaren Jackson Jr.;PF,C
+33;Jimmy Butler;PF,SF
+34;Fred VanVleet;PG
+35;Desmond Bane;SF,SG
+36;Cade Cunningham;PG,SG
+37;Darius Garland;PG
+38;Evan Mobley;C,PF
+39;Paolo Banchero;PF,SF
+40;Zach LaVine;SG,SF
+41;Lauri Markkanen;PF,SF
+42;Kawhi Leonard;SF,SG
+43;Brandon Ingram;PF,SF,SG
+44;Jamal Murray;PG,SG
+45;Jrue Holiday;PG,SG
+46;Bradley Beal;PG,SG
+47;Kristaps Porzingis;PF,C
+48;Scottie Barnes;SF,PF
+49;Zion Williamson;C,PF
+50;CJ McCollum;PG,SG
+51;Rudy Gobert;C
+52;Deandre Ayton;C
+53;Myles Turner;C
+54;Jordan Poole;PG,SG
+55;Kyle Kuzma;SF,PF
+56;Nic Claxton;C
+57;Terry Rozier;PG,SG
+58;Jarrett Allen;C
+59;Tyrese Maxey;PG,SG
+60;Karl-Anthony Towns;C,PF
+61;Russell Westbrook III;PG
+62;Jakob Poeltl;C
+63;Ja Morant;PG OUT
+64;Jalen Green;PG,SG
+65;Jerami Grant;PF
+66;Spencer Dinwiddie;PG,SG
+67;Tyler Herro;PG,SG
+68;Devin Vassell;SG,SF
+69;Walker Kessler;C
+70;O.G. Anunoby;SF,SG
+71;Victor Wembanyama;C,PF
+72;Clint Capela;C
+73;Alperen Sengun;C
+74;Chris Paul;PG
+75;Josh Giddey;PF,PG,SF,SG
+76;Jonas Valanciunas;C
+77;Keldon Johnson;SF,SG
+78;Anfernee Simons;PG,SG
+79;Aaron Gordon;PF
+80;Jusuf Nurkic;C
+81;Tre Jones;PG
+82;RJ Barrett;SG,SF
+83;D'Angelo Russell;PG,SG
+84;Klay Thompson;SG,SF
+85;Buddy Hield;SG,SF
+86;Markelle Fultz;PG,SG
+87;Wendell Carter Jr.;C
+88;Brook Lopez;C
+89;Jaden Ivey;PG,SG
+90;Tobias Harris;SF,PF
+91;Michael Porter Jr.;SF
+92;Jordan Clarkson;PG,SG
+93;Franz Wagner;PF,SF,SG
+94;Andrew Wiggins;PF,SF
+95;Bobby Portis Jr.;PF,C
+96;Draymond Green;PF,C
+97;Ivica Zubac;C
+98;Jalen Williams;PF,SF,SG
+99;Josh Hart;SG,SF
+100;Khris Middleton;PF,SF
+101;Steven Adams;C
+102;P.J. Washington;PF
+103;Mitchell Robinson;C
+104;Christian Wood;PF,C
+105;Bojan Bogdanovic;PF,SF,SG
+106;Tyus Jones;PG
+107;Derrick White;PG,SG
+108;Chet Holmgren;C,PF
+109;Gary Trent Jr.;PG,SG
+110;Jabari Smith Jr.;C,PF
+111;Scoot Henderson;PG
+112;Marcus Smart;PG,SG
+113;John Collins;PF
+114;Bruce Brown Jr.;PG,SF,SG
+115;Kelly Oubre Jr.;PF,SF
+116;Onyeka Okongwu;C
+117;Miles Bridges;SF,PF OUT
+118;Mark Williams;C
+119;Jalen Duren;C
+120;Cameron Johnson;SF,PF
+121;Immanuel Quickley;PG,SG
+122;Bennedict Mathurin;SF,SG
+123;Kevin Porter Jr.;PG,SG DTD
+124;Daniel Gafford;C,PF
+125;Brandon Miller;SF,SG
+126;Austin Reaves;SF,SG
+127;Mason Plumlee;C
+128;Malcolm Brogdon;PG,SG
+129;Keegan Murray;PF,SF
+130;Kevin Huerter;SG,SF
+131;Kevon Looney;PF,C
+132;Harrison Barnes;SF,PF
+133;Robert Williams III;C
+134;Dillon Brooks;SG,SF
+135;Mike Conley;PG
+136;Collin Sexton;PG,SG
+137;Norman Powell;SG,SF
+138;Jeremy Sochan;PF
+139;Kris Dunn;PG
+140;Cole Anthony;PG
+141;Kyle Anderson;SF,PF
+142;Caris LeVert;SG,SF
+143;Deni Avdija;PF,SF
+144;Kentavious Caldwell-Pope;SF,SG
+145;De'Anthony Melton;PG,SG
+146;Ben Simmons;PF,PG,SG
+147;Jaden McDaniels;PF,SF
+148;Gordon Hayward;SF
+149;Luguentz Dort;SG,SF
+150;Obi Toppin;PF
+151;Kyle Lowry;PG
+152;Saddiq Bey;PF,SF
+153;Patrick Williams;PF
+154;Jonathan Kuminga;PF
+155;Ausar Thompson;SF,SG
+156;Dennis Schroder;PG
+157;Bogdan Bogdanovic;PF,SF,SG
+158;Tim Hardaway Jr.;SG,SF
+159;Zach Collins;PF,C
+160;Isaiah Stewart;PF,C
+161;Al Horford;PF,C
+162;Grant Williams;PF
+163;Max Strus;SG,SF
+164;Herbert Jones;PF,SF
+165;Jarred Vanderbilt;PF
+166;Tari Eason;PF,SF
+167;De'Andre Hunter;SF,PF
+168;Amen Thompson;SF,SG
+169;Malik Monk;SF,SG
+170;Royce O'Neale;SF,SG
+171;Shaedon Sharpe;SF,SG
+172;Christian Braun;SG
+173;Jarace Walker;PF
+174;Jalen Suggs;PG,SG
+175;Kelly Olynyk;PF,C
+176;Dorian Finney-Smith;SF,PF
+177;Josh Richardson;SG
+178;James Wiseman;C
+179;Paul Reed;C,PF
+180;Corey Kispert;SG,SF
+181;Caleb Martin;SF,SG
+182;Grayson Allen;SG,SF
+183;Trey Murphy III;PF,SF,SG OUT
+184;Patrick Beverley;PG
+185;Alex Caruso;PG,SG
+186;Rui Hachimura;SF,PF
+187;Gabe Vincent;PG,SG
+188;Jevon Carter;PG,SG
+189;Kevin Love;PF,C
+190;Isaiah Hartenstein;C
+191;Chris Boucher;PF
+192;Coby White;PG,SG
+193;Matisse Thybulle;SG,SF
+194;Quentin Grimes;SF,SG
+195;Davion Mitchell;SG,PG
+196;T.J. McConnell;PG
+197;Eric Gordon;SG,SF
+198;Bones Hyland;PG,SG
+199;Ayo Dosunmu;PG,SG
+200;Pat Connaughton;SG,SF
+201;Marvin Bagley III;PF,C
+202;AJ Griffin;SF,SG
+203;Isaiah Jackson;C,PF
+204;Talen Horton-Tucker;SF,SG
+205;David Roddy;PF,SF
+206;Monte Morris;PG
+207;Precious Achiuwa;C,PF
+208;Jalen Johnson;PF,SF
+209;Anthony Black;PG,SG
+210;Jaden Hardy;PG,SG
+211;Donte DiVincenzo;SF,SG
+212;Seth Curry;PG,SG
+213;Andrew Nembhard;PG,SG
+214;Naz Reid;C,PF
+215;Bilal Coulibaly;SF,SG
+216;Jose Alvarado;PG
+217;Shaquille Harrison;PG,SG
+218;Delon Wright;PG,SG
+219;Josh Green;SG,SF
+220;Skylar Mays;SG FA
+221;Josh Okogie;SG,SF
+222;Taylor Hendricks;PF
+223;Terance Mann;PF,SF,SG
+224;Andre Drummond;C
+225;Richaun Holmes;PF,C
+226;Keyonte George;SG
+227;Dyson Daniels;PG,SG
+228;Payton Pritchard;PG,SG
+229;Dennis Smith Jr.;PG,SG
+230;Kenyon Martin Jr.;SF
+231;Xavier Tillman;PF,C
+232;Dereck Lively II;C
+233;Duncan Robinson;SF,SG
+234;Cam Thomas;SF,SG
+235;Cam Whitmore;SF
+236;Cameron Payne;PG FA
+237;Shake Milton;PG,SG
+238;Ochai Agbaji;PG,SF,SG
+239;Cason Wallace;PG,SG
+240;Landry Shamet;PG,SG
+241;Malachi Flynn;PG
+242;Dwight Powell;C
+243;Malik Beasley;SF,SG
+244;Kenyon Martin;F RET
+245;Gradey Dick;SF,SG
+246;Patty Mills;PG,SG
+247;Larry Nance Jr.;PF,C
+248;Nick Richards;C
+249;John Konchar;SF,SG
+250;Moritz Wagner;PF,C
+251;Santi Aldama;PF,C
+252;Johnny Davis;SF,SG
+253;Killian Hayes;PG,SG
+254;Luke Kennard;PG,SG
+255;Marcus Morris Sr.;PF,C,SF
+256;Naji Marshall;PF,SF,SG
+257;MarJon Beauchamp;SF,SG
+258;Jonathan Isaac;SF,PF
+259;Drew Eubanks;PF,C
+260;Reggie Jackson;PG
+261;Nicolas Batum;PF,SF
+262;P.J. Tucker;PF,SF
+263;Brandon Clarke;C,PF
+264;Maxi Kleber;PF,C
+265;Zeke Nnaji;PF,C
+266;Trey Lyles;PF,C
+267;Nick Smith Jr.;PG,SG
+268;Jae Crowder;SF,PF
+269;Jaylin Williams;C,PF
+270;Nikola Jovic;C,PF,SF
+271;Mo Bamba;C
+272;Kris Murray;PF,SF
+273;Aleksej Pokusevski;C,PF
+274;Nickeil Alexander-Walker;SF,SG
+275;Malaki Branham;PG,SF,SG
+276;Joe Ingles;PF,SF IR
+277;Gary Payton II;PG,SF,SG
+278;Alec Burks;PG,SF,SG
+279;Torrey Craig;PF,SF
+280;Dario Saric;PF,C
+281;Robert Covington;PF,SF
+282;Isaac Okoro;SG,SF
+283;Peyton Watson;PF,SF,SG
+284;Darius Bazley;C,PF,SF
+285;Nassir Little;PF,SF
+286;Jae'Sean Tate;SF,PF
+287;Kenrich Williams;SF,PF
+288;Keita Bates-Diop;SF,PF
+289;Derrick Rose;PG
+290;Jalen Smith;PF,C
+291;Cody Martin;SG,SF
+292;Lonnie Walker IV;SF,SG
+293;Jalen McDaniels;PF,SF
+294;Jock Landale;C
+295;Jaden Springer;PG,SG
+296;Thomas Bryant;C
+297;Ricky Rubio;PG,SG OUT
+298;Jaime Jaquez Jr.;SF
+299;Haywood Highsmith;PF,SF
+300;Trendon Watford;PF
+301;Montrezl Harrell;C OUT
+302;Sam Hauser;PF,SF
+303;Evan Fournier;SG,SF
+304;Isaiah Joe;PG,SF,SG
+305;Bol Bol;PF,C
+306;Aleksandar Vezenkov;PF
+307;Moses Moody;SF,SG
+308;Max Christie;SF,SG
+309;Julian Champagnie;PF,SF,SG
+310;Devonte' Graham;PG,SG OUT
+311;Jordan Goodwin;PG,SG
+312;Joe Harris;SG,SF
+313;Georges Niang;PF
+314;Orlando Robinson;C
+315;Chuma Okeke;PF,SF
+316;Cam Reddish;PF,SF
+317;Jaxson Hayes;C,PF
+318;Gary Harris;SG,SF
+319;Ousmane Dieng;PF,SF
+320;Damion Lee;SF,SG
+321;Ziaire Williams;SF,SG
+322;Taurean Prince;SF,PF
+323;Chris Duarte;SF,SG
+324;Cory Joseph;PG,SG
+325;JaVale McGee;C
+326;Troy Brown Jr.;PF,SF
+327;Jabari Walker;PF,SF
+328;Isaiah Livers;PF,SF
+329;Isaiah Roby;C,PF
+330;Jake LaRavia;PF,SF
+331;Thaddeus Young;C,PF
+332;Leonard Miller;PF,SF
